@@ -1,3 +1,4 @@
+"tyuykumjgkjuu"
 a = input("Введите пароль")
 if len(a) < 5:
     print("Легкий пароль")
